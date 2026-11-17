@@ -31,6 +31,14 @@ That background shapes how I work: every number traced to its source, every anal
 
 All five repositories run their tests in **GitHub Actions** on every push, the two newest open directly in **Google Colab**, and each README states where the data is simulated.
 
+### Berlin data portfolio, by business domain
+
+New projects go into one repo, **[berlin-data-portfolio](https://github.com/mohammedelsayed741996-blip/berlin-data-portfolio)**, each built around a real Berlin working-student or internship opening.
+
+| Domain | Project | Headline result |
+|---|---|---|
+| Climate Tech & Energy Finance | **[Solar loan credit risk and stress testing](https://github.com/mohammedelsayed741996-blip/berlin-data-portfolio/tree/main/climate-tech-energy-finance/solar-loan-credit-risk)**<br/>Python · scikit-learn · SQL · Colab | Scorecard **Gini 0.64 out of time**; cut-off at 79 % approval cuts the bad rate from 3.0 % to 1.3 %; a 20 % fall in power prices adds **47 % to expected credit loss** |
+
 <details>
 <summary><b>More projects</b></summary>
 
